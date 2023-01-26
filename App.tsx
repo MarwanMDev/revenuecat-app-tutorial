@@ -3,7 +3,7 @@ import { Text, View } from 'react-native';
 
 export default function App() {
   return (
-    <View>
+    <View className="p-10">
       <Text>Open up App.tsx to start working on your app!</Text>
       <StatusBar style="auto" />
     </View>
